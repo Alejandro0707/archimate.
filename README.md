@@ -21,3 +21,5 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 
 
 ![Captura de pantalla 2020-05-04 a la(s) 8 10 29 p  m](https://user-images.githubusercontent.com/28465837/81027544-d4101c00-8e43-11ea-95f3-cccfda6df4ec.png)
+
+![WhatsApp Image 2020-05-04 at 8 34 40 PM](https://user-images.githubusercontent.com/28465837/81028426-f8212c80-8e46-11ea-9c26-eee37436816e.jpeg)
