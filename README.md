@@ -22,7 +22,7 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 # Punto de vista del proceso de negocio
 
 # Estructura de Aplicación
-![Estructura Aplicacion](https://user-images.githubusercontent.com/42079368/82275948-90d8a180-9949-11ea-8e83-5874cebb0448.jpg)
+![Estructura de Aplicación](https://user-images.githubusercontent.com/42079368/82276677-87503900-994b-11ea-9aca-899b3910b6f9.jpg)
 
 
 
