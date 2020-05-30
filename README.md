@@ -45,3 +45,6 @@ Las dimensiones landscape Map se pueden elegir libremente de la arquitectura que
 
 
 Esta vista muestra varias capas y aspectos de una arquitectura empresarial en un diagrama. Hay dos categorías de capas, a saber, capas dedicadas y capas de servicio. Las capas son el resultado del uso de la relación de "agrupamiento" para una partición natural de todo el conjunto de objetos y relaciones que pertenecen a un modelo.
+
+
+La tecnología, aplicación, proceso y actorLas capas / role pertenecen a la primera categoría. El principio estructural detrás de un punto de vista completamente en capas es que cada capa dedicada expone, por medio de la relación de "realización", una capa de servicios, que están más "sirviendo" a la siguiente capa dedicada. Por lo tanto, podemos separar fácilmente la estructura interna y la organización de una capa dedicada de su comportamiento externo observable expresado como la capa de servicio que realiza la capa dedicada.
