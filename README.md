@@ -34,4 +34,8 @@ Los puntos de vista de los landscape Map se utilizan, por ejemplo, para publicar
 
 ![landscape Map ](https://user-images.githubusercontent.com/28465837/83329251-0ac43100-a24e-11ea-883d-54d4f9eb4e39.png)
 
+esta un ejemplo de un landscape Map que muestra qué sistemas de información respaldan las operaciones de una compañía de seguros. El eje vertical representa el negocio de la empresa.
+
+funciones; El eje horizontal muestra sus productos de seguros. Un rectángulo de aplicación que cubre una o más celdas significa que este par particular de función / producto está respaldado por la aplicación, por ejemplo, la contratación de un seguro de asistencia legal está respaldada por el sistema de oficina de asistencia legal.
+
 
