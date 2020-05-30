@@ -48,6 +48,8 @@ Esta vista muestra varias capas y aspectos de una arquitectura empresarial en un
 
 
 La tecnología, aplicación, proceso y actorLas capas / role pertenecen a la primera categoría. El principio estructural detrás de un punto de vista completamente en capas es que cada capa dedicada expone, por medio de la relación de "realización", una capa de servicios, que están más "sirviendo" a la siguiente capa dedicada. Por lo tanto, podemos separar fácilmente la estructura interna y la organización de una capa dedicada de su comportamiento externo observable expresado como la capa de servicio que realiza la capa dedicada.
+
+
 Ejemplo de punto de vista en capas
 
-![Uploading Nueva imagen de mapa de bits.jpg…]()
+
