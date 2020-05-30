@@ -32,4 +32,6 @@ El uso y las técnicas de los landscape Map Viewpoints. Presenta un modelo forma
 
 Los puntos de vista de los landscape Map se utilizan, por ejemplo, para publicar una descripción general para los administradores y propietarios de procesos o sistemas, o los arquitectos los emplean como una herramienta conveniente para el análisis de cambios o para encontrar patrones en la asignación de recursos. landscape Map, como lo definen Van der Sanden y Sturm , es una matriz que representa un sistema de coordenadas tridimensional que representa las relaciones arquitectónicas. 
 
+![landscape Map ](https://user-images.githubusercontent.com/28465837/83329251-0ac43100-a24e-11ea-883d-54d4f9eb4e39.png)
+
 
