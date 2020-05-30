@@ -40,3 +40,8 @@ funciones; El eje horizontal muestra sus productos de seguros. Un rectángulo de
 
 Las dimensiones landscape Map se pueden elegir libremente de la arquitectura que se está modelando. En la práctica, las dimensiones a menudo se eligen entre diferentes dominios arquitectónicos, por ejemplo, funciones comerciales, productos y aplicaciones, etc. En la mayoría de los casos, el eje vertical representa un comportamiento como procesos o funciones comerciales; el eje horizontal representa "casos" para los que se deben ejecutar esas funciones o procesos. Estos 'casos' pueden ser diferentes productos, servicios, segmentos de mercado o escenarios. La tercera dimensión representada por las celdas de la matriz se usa para asignar recursos como sistemas de información, infraestructura o recursos humanos. El valor de las celdas se puede visualizar mediante rectángulos de colores con etiquetas de texto.
  
+ 
+# Analisis de LayeredViewpoint
+
+
+Esta vista muestra varias capas y aspectos de una arquitectura empresarial en un diagrama. Hay dos categorías de capas, a saber, capas dedicadas y capas de servicio. Las capas son el resultado del uso de la relación de "agrupamiento" para una partición natural de todo el conjunto de objetos y relaciones que pertenecen a un modelo.
