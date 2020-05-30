@@ -51,5 +51,6 @@ La tecnología, aplicación, proceso y actorLas capas / role pertenecen a la pri
 
 
 Ejemplo de punto de vista en capas
+![capas](https://user-images.githubusercontent.com/28465837/83329891-88d60700-a251-11ea-8f14-c55f7b920dc8.png)
 
 
