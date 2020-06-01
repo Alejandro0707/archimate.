@@ -9,7 +9,6 @@ Ingeniero Alejandro Daza - Informatica 1
  - Jhon Fredy Torres Ramírez (20201099048)
  - Alejandro Lopez Castañeda (20201099037)
 
-
 # Objetivo de la solución
 Elaboración de 3 puntos de vista en Archimate para un sistema que permita realizar la gestión correspondiente a la revisión y seguimiento de proyectos de grado en la universidad Distrital Francisco José de Caldas.
 
@@ -18,7 +17,7 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 # Punto de vista de las funciones de negocio
 ![WhatsApp Image 2020-05-04 at 8 53 21 PM (1)](https://user-images.githubusercontent.com/28465837/81029328-0fade480-8e4a-11ea-8828-ebab305c50c0.jpeg)
 # Punto de vista del proceso de negocio
-
+("Falta completar este diagrama")
 # Estructura de Aplicación
 ![Estructura de Aplicación](https://user-images.githubusercontent.com/42079368/82276677-87503900-994b-11ea-9aca-899b3910b6f9.jpg)
 
