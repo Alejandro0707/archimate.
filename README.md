@@ -20,7 +20,8 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 ("Falta completar este diagrama")
 # Estructura de Aplicación
 ![Estructura de Aplicación](https://user-images.githubusercontent.com/42079368/82276677-87503900-994b-11ea-9aca-899b3910b6f9.jpg)
-
+# Modelo de uso de la aplicación
+("Falta completar este diagrama")
 # Analisis de  landscape Map Viewpoints 
 
 landscape Map Viewpoints son una técnica para visualizar arquitecturas empresariales, también presentan elementos arquitectónicos en forma de un "mapa" 2D fácil de entender. 
