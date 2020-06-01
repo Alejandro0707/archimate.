@@ -1,7 +1,5 @@
-# Actividad Archimate
+# Actividad Archimate - Ejercicio Diagramas en Archimate
 
-
-# Ejercicio Diagramas en Archimate
 Universidad Francisco Jose de Caldas
 Presentado a:
 Ingeniero Alejandro Daza - Informatica 1
