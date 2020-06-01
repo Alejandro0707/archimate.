@@ -18,6 +18,7 @@ Elaborar en Archimate los puntos de vista necesarios para que un sistema permita
 # Punto de vista de las funciones de negocio
 ![WhatsApp Image 2020-05-04 at 8 53 21 PM (1)](https://user-images.githubusercontent.com/28465837/81029328-0fade480-8e4a-11ea-8828-ebab305c50c0.jpeg)
 # Punto de vista del proceso de negocio
+![Proceso de Negocio](https://user-images.githubusercontent.com/42079368/83446691-bf0fb400-a414-11ea-8186-254e1eb75ee8.jpg)
 ("Falta completar este diagrama")
 # Estructura de Aplicación
 ![Estructura de Aplicación](https://user-images.githubusercontent.com/42079368/82276677-87503900-994b-11ea-9aca-899b3910b6f9.jpg)
